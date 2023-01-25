@@ -1,0 +1,416 @@
+{
+    "ಾ": {
+        "telugu": "ా",
+        "malayalam": "ാ",
+        "devanagari": "ा"
+    },
+
+    "ಿ": {
+        "telugu": "ి",
+        "malayalam": "ി",
+        "devanagari": "ि"
+    },
+
+    "ೀ": {
+        "telugu": "ీ",
+        "malayalam": "ീ",
+        "devanagari": "ी"
+    },
+    
+    "ು": {
+        "telugu": "ు",
+        "malayalam": "ു",
+        "devanagari": "ु"
+    },
+    
+    "ೂ": {
+        "telugu": "ూ",
+        "malayalam": "ൂ",
+        "devanagari": "ू"
+    },
+
+    "ೃ": {
+        "telugu": "ృ",
+        "malayalam": "ൃ",
+        "devanagari": "ृ"
+    },
+
+    "ೄ": {
+        "telugu": "ౄ",
+        "malayalam": "ൄ",
+        "devanagari": "ॄ"
+    },
+
+    "ೆ": {
+        "telugu": "ె",
+        "malayalam": "െ",
+        "devanagari": "ॆ"
+    },
+
+    "ೇ": {
+        "telugu": "ే",
+        "malayalam": "േ",
+        "devanagari": "े"
+    },
+    
+    "ೈ": {
+        "telugu": "ై",
+        "malayalam": "ൈ",
+        "devanagari": "ै"
+    },
+
+    "ೊ": {
+        "telugu": "ొ",
+        "malayalam": "ൊ",
+        "devanagari": "ॊ"
+    },
+
+    "ೋ": {
+        "telugu": "ో",
+        "malayalam": "ോ",
+        "devanagari": "ो"
+    },
+
+    "ೌ": {
+        "telugu": "ౌ",
+        "malayalam": "ൌ",
+        "devanagari": "ौ"
+    },
+
+    "ಂ": {
+        "telugu": "ం",
+        "malayalam": "ം",
+        "devanagari": "ं"
+    },
+    
+    "ಃ": {
+        "telugu": "ః",
+        "malayalam": "ഃ",
+        "devanagari": "ः"
+    },
+    
+    "್": {
+        "telugu": "్",
+        "malayalam": "്",
+        "devanagari": "्"
+    },
+
+    "ಕ": {
+        "telugu": "క",
+        "malayalam": "ക",
+        "devanagari": "क"
+    },
+
+    "ಖ": {
+        "telugu": "ఖ",
+        "malayalam": "ഖ",
+        "devanagari": "ख"
+    },
+
+    "ಗ": {
+        "telugu": "గ",
+        "malayalam": "ഗ",
+        "devanagari": "ग"
+    },
+
+    "ಘ": {
+        "telugu": "ఘ",
+        "malayalam": "ഘ",
+        "devanagari": "घ"
+    },
+
+    "ಙ": {
+        "telugu": "ఙ",
+        "malayalam": "ങ",
+        "devanagari": "ङ"
+    },
+
+    "ಚ": {
+        "telugu": "చ",
+        "malayalam": "ച",
+        "devanagari": "च"
+    },
+
+    "ಛ": {
+        "telugu": "ఛ",
+        "malayalam": "ഛ",
+        "devanagari": "छ"
+    },
+
+    "ಜ": {
+        "telugu": "జ",
+        "malayalam": "ജ",
+        "devanagari": "ज"
+    },
+
+    "ಝ": {
+        "telugu": "ఝ",
+        "malayalam": "ഝ",
+        "devanagari": "झ"
+    },
+
+    "ಞ": {
+        "telugu": "ఞ",
+        "malayalam": "ഞ",
+        "devanagari": "ञ"
+    },
+
+    "ಟ": {
+        "telugu": "ట",
+        "malayalam": "ട",
+        "devanagari": "ट"
+    },
+
+    "ಠ": {
+        "telugu": "ఠ",
+        "malayalam": "ഠ",
+        "devanagari": "ठ"
+    },
+
+    "ಡ": {
+        "telugu": "డ",
+        "malayalam": "ഡ",
+        "devanagari": "ड"
+    },
+
+    "ಢ": {
+        "telugu": "ఢ",
+        "malayalam": "ഢ",
+        "devanagari": "ढ"
+    },
+
+    "ಣ": {
+        "telugu": "ణ",
+        "malayalam": "ണ",
+        "devanagari": "ण"
+    },
+
+    "ತ": {
+        "telugu": "త",
+        "malayalam": "ത",
+        "devanagari": "त"
+    },
+
+    "ಥ": {
+        "telugu": "థ",
+        "malayalam": "ഥ",
+        "devanagari": "थ"
+    },
+
+    "ದ": {
+        "telugu": "ద",
+        "malayalam": "ദ",
+        "devanagari": "द"
+    },
+
+    "ಧ": {
+        "telugu": "ధ",
+        "malayalam": "ധ",
+        "devanagari": "ध"
+    },
+
+    "ನ": {
+        "telugu": "న",
+        "malayalam": "ന",
+        "devanagari": "न"
+    },
+
+    "ಪ": {
+        "telugu": "ప",
+        "malayalam": "പ",
+        "devanagari": "प"
+    },
+
+    "ಫ": {
+        "telugu": "ఫ",
+        "malayalam": "ഫ",
+        "devanagari": "फ"
+    },
+
+    "ಬ": {
+        "telugu": "బ",
+        "malayalam": "ബ",
+        "devanagari": "ब"
+    },
+
+    "ಭ": {
+        "telugu": "భ",
+        "malayalam": "ഭ",
+        "devanagari": "भ"
+    },
+
+    "ಮ": {
+        "telugu": "మ",
+        "malayalam": "മ",
+        "devanagari": "म"
+    },
+
+    "ಯ": {
+        "telugu": "య",
+        "malayalam": "യ",
+        "devanagari": "य"
+    },
+
+    "ರ": {
+        "telugu": "ర",
+        "malayalam": "ര",
+        "devanagari": "र"
+    },
+
+    "ಱ": {
+        "telugu": "ఱ",
+        "malayalam": "റ",
+        "devanagari": "ऱ"
+    },
+
+    "ಲ": {
+        "telugu": "ల",
+        "malayalam": "ല",
+        "devanagari": "ल"
+    },
+
+    "ಳ": {
+        "telugu": "ళ",
+        "malayalam": "ള",
+        "devanagari": "ळ"
+    },
+
+    "ವ": {
+        "telugu": "వ",
+        "malayalam": "വ",
+        "devanagari": "व"
+    },
+
+    "ಶ": {
+        "telugu": "శ",
+        "malayalam": "ശ",
+        "devanagari": "श"
+    },
+
+    "ಷ": {
+        "telugu": "ష",
+        "malayalam": "ഷ",
+        "devanagari": "ष"
+    },
+
+    "ಸ": {
+        "telugu": "స",
+        "malayalam": "സ",
+        "devanagari": "स"
+    },
+
+    "ಹ": {
+        "telugu": "హ",
+        "malayalam": "ഹ",
+        "devanagari": "ह"
+    },
+
+
+    "ಅ": {
+        "telugu": "అ",
+        "malayalam": "അ",
+        "devanagari": "अ"
+    },
+
+    "ಆ": {
+        "telugu": "ఆ",
+        "malayalam": "ആ",
+        "devanagari": "आ"
+    },
+
+    "ಇ": {
+        "telugu": "ఇ",
+        "malayalam": "ഇ",
+        "devanagari": "इ"
+    },
+
+    "ಈ": {
+        "telugu": "ఈ",
+        "malayalam": "ഈ",
+        "devanagari": "ई"
+    },
+
+    "ಉ": {
+        "telugu": "ఉ",
+        "malayalam": "ഉ",
+        "devanagari": "उ"
+    },
+
+    "ಊ": {
+        "telugu": "ఊ",
+        "malayalam": "ഊ",
+        "devanagari": "ऊ"
+    },
+
+    "ಋ": {
+        "telugu": "ఋ",
+        "malayalam": "ഋ",
+        "devanagari": "ऋ"
+    },
+
+    "ೠ": {
+        "telugu": "ౠ",
+        "malayalam": "ൠ",
+        "devanagari": "ॠ"
+    },   
+
+    "ಌ": {
+        "telugu": "ఌ",
+        "malayalam": "ഌ",
+        "devanagari": "ऌ"
+    },
+
+    "ೡ": {
+        "telugu": "ౡ",
+        "malayalam": "ൡ",
+        "devanagari": "ॡ"
+    },
+
+    "ಎ": {
+        "telugu": "ఎ",
+        "malayalam": "എ",
+        "devanagari": "ऎ"
+    },
+
+    "ಏ": {
+        "telugu": "ఏ",
+        "malayalam": "ഏ",
+        "devanagari": "ए"
+    },
+
+    "ಐ": {
+        "telugu": "ఐ",
+        "malayalam": "ഐ",
+        "devanagari": "ऐ"
+    },
+
+    "ಒ": {
+        "telugu": "ఒ",
+        "malayalam": "ഒ",
+        "devanagari": "ऒ"
+    },
+
+    "ಓ": {
+        "telugu": "ఓ",
+        "malayalam": "ഓ",
+        "devanagari": "ओ"
+    },
+
+    "ಔ": {
+        "telugu": "ఔ",
+        "malayalam": "ഔ",
+        "devanagari": "औ"
+    },
+
+    "ಅಂ": {
+        "telugu": "అం",
+        "malayalam": "അം",
+        "devanagari": "अं"
+    },
+
+    "ಅಃ": {
+        "telugu": "అః",
+        "malayalam": "അഃ",
+        "devanagari": "अः"
+    }
+}

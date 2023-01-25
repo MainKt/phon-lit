@@ -1,0 +1,281 @@
+{
+    "aa": {
+        "kannada": "ಾ"
+    },
+
+    "i": {
+        "kannada": "ಿ" 
+    },
+
+    "i`": {
+        "kannada": "ೀ"
+    },
+    
+    "u": {
+        "kannada": "ು"
+    },
+    
+    "u`": { 
+        "kannada": "ೂ"
+    },
+
+    "r]": {
+        "kannada": "ೃ" 
+    },
+
+    "r]]": {
+        "kannada": "ೄ"
+    },
+
+    "e": {
+        "kannada": "ೆ"
+    },
+
+    "e`": {
+        "kannada": "ೇ"
+    },
+    
+    "ai": {
+        "kannada": "ೈ"
+    },
+
+    "o": {
+        "kannada": "ೊ"
+    },
+
+    "o`": {
+        "kannada": "ೋ"
+    },
+
+    "av": {
+        "kannada": "ೌ"
+    },
+
+    "[m]": {
+        "kannada": "ಂ"
+    },
+    
+    "[h]": {
+        "kannada": "ಃ"
+    },
+    
+    "[]": {
+        "kannada": "್"
+    },
+
+    "k": {
+        "kannada": "ಕ"
+    },
+
+    "kh": {
+        "kannada": "ಖ"
+    },
+
+    "g": {
+        "kannada": "ಗ"
+    },
+
+    "gh": {
+        "kannada": "ಘ"
+    },
+
+    "ng": {
+        "kannada": "ಙ"
+    },
+
+    "c": {
+        "kannada": "ಚ"
+    },
+
+    "ch": {
+        "kannada": "ಛ"
+    },
+
+    "j": {
+        "kannada": "ಜ"
+    },
+
+    "jh": {
+        "kannada": "ಝ"
+    },
+
+    "nj": {
+        "kannada": "ಞ"
+    },
+
+    "t": {
+        "kannada": "ಟ"
+    },
+
+    "th": {
+        "kannada": "ಠ"
+    },
+
+    "d": {
+        "kannada": "ಡ"
+    },
+
+    "dh": {
+        "kannada": "ಢ"
+    },
+
+    "[n]": {
+        "kannada": "ಣ"
+    },
+
+    "[t]": {
+        "kannada": "ತ"
+    },
+
+    "[th]": {
+        "kannada": "ಥ"
+    },
+
+    "[d]": {
+        "kannada": "ದ"
+    },
+
+    "[dh]": {
+        "kannada": "ಧ"
+    },
+
+    "n": {
+        "kannada": "ನ"
+    },
+
+    "p": {
+        "kannada": "ಪ"
+    },
+
+    "ph": {
+        "kannada": "ಫ"
+    },
+
+    "f": {
+        "kannada": "`ಫ"
+    },
+
+    "b": {
+        "kannada": "ಬ"
+    },
+
+    "bh": {
+        "kannada": "ಭ"
+    },
+
+    "m": {
+        "kannada": "ಮ"
+    },
+
+    "y": {
+        "kannada": "ಯ"
+    },
+
+    "r": {
+        "kannada": "ರ"
+    },
+
+    "[[r]]": {
+        "kannada": "ಱ"
+    },
+
+    "l": {
+        "kannada": "ಲ"
+    },
+
+    "lh": {
+        "kannada": "ಳ"
+    },
+
+    "w": {
+        "kannada": "ವ"
+    },
+
+    "sh": {
+        "kannada": "ಶ"
+    },
+
+    "sh`": {
+        "kannada": "ಷ"
+    },
+
+    "s": {
+        "kannada": "ಸ"
+    },
+
+    "h": {
+        "kannada": "ಹ"
+    },
+
+    "[a]": {
+        "kannada": "ಅ"
+    },
+
+    "[aa]": {
+        "kannada": "ಆ"
+    },
+
+    "[i]": {
+        "kannada": "ಇ"
+    },
+
+    "[iy]": {
+        "kannada": "ಈ"
+    },
+
+    "[u]": {
+        "kannada": "ಉ"
+    },
+
+    "[uv]": {
+        "kannada": "ಊ"
+    },
+
+    "[r]": {
+        "kannada": "ಋ"
+    },
+
+    "[rr]": {
+        "kannada": "ೠ"   
+    },
+
+    "[`r]": {
+        "kannada": "ಌ"
+    },
+
+    "[``r]": {
+        "kannada": "ೡ"
+    },
+
+    "[e]": {
+        "kannada": "ಎ"
+    },
+
+    "[ey]": {
+        "kannada": "ಏ"
+    },
+
+    "[ai]": {
+        "kannada": "ಐ"
+    },
+
+    "[o]": {
+        "kannada": "ಒ"
+    },
+
+    "[ov]": {
+        "kannada": "ಓ"
+    },
+
+    "[av]": {
+        "kannada": "ಔ"
+    },
+
+    "[am]": {
+        "kannada": "ಅಂ"
+    },
+
+    "[ah]": {
+        "kannada": "ಅಃ"
+    }
+}
