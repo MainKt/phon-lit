@@ -36,7 +36,12 @@
 
     <select bind:value={sourceLanguage}>
         {#each languages.filter(language => language !== targetLanguage) as language}
-            <option value={language}>{capitalize(language)} Script</option>
+            <option value={language}>
+                {capitalize(language)} Script
+            {#if language === "generic"}
+                (Experimental)
+            {/if}
+            </option>
         {/each}
     </select>
     <textarea bind:value={text} placeholder="Type here..."></textarea>
@@ -47,7 +52,12 @@
     
     <select bind:value={targetLanguage} >
         {#each languages.filter(language => language !== sourceLanguage) as language}
-            <option value={language}>{capitalize(language)} Script</option>
+            <option value={language}>
+                {capitalize(language)} Script
+                {#if language === "generic"}
+                    (Experimental)
+                {/if}
+            </option>
         {/each}
     </select>
     <textarea readonly placeholder="Transliteration will appear here...">{transliterated}</textarea>
