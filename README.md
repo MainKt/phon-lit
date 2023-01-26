@@ -1,38 +1,22 @@
-# create-svelte
+# PhonLit
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+PhonLit is a SvelteKit + PicoCSS project that can transliterate from one Indian language to another. It was built as part of the hackathon organized by Sceptix Club and T&P cell of SJEC.
 
-## Creating a project
+# Known Bugs
 
-If you're seeing this, you've probably already done this step. Congrats!
+The Generic Script doesn't work yet
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+# Caveats
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+Please note that there is a lot of unmaintainable spaghetti code that I wish to fix in future.
 
-## Developing
+# Contributing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+If you wish to contribute, you can open a pull request and I'll be happy to review it.
 
-```bash
-npm run dev
+# Acknowledgments
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+Thanks to the Sceptix Club and T&P cell of SJEC for organizing the hackathon and giving me the opportunity to build this project.
 
-## Building
 
-To create a production version of your app:
 
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
