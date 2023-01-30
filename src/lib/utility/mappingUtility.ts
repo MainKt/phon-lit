@@ -70,27 +70,28 @@ function transliteratePurePhonetic(text: string, from: Language, to: Language): 
 
 function transliterateGenericToKannada(text: string): string {
     let result = "";
-    const endChar = 
-    (text + " ")
+    const endChar = text
         .toLowerCase()
         .split("")
         .reduce((acc: string, char: string) => {
             if (genericToKannada.get(acc + char)) {
-                return acc + char; 
+                result += genericToKannada.get(acc + char);
+                return ""; 
             }
 
             if (genericToKannada.get(acc)) {
                 result += genericToKannada.get(acc);
+                if (char === "a") return "";
                 return char;
             }
 
             result += acc;
 
             return char;
-        }, "")
+        }," ")
         .concat();
-    console.log(result, endChar)
-    return result + (genericToKannada.get(endChar) || endChar === "a" ? "" : endChar);
+
+    return result + (genericToKannada.get(endChar) || endChar);
 }
 
 function transliterateKannadaToGeneric(text: string): string {
@@ -99,7 +100,8 @@ function transliterateKannadaToGeneric(text: string): string {
         .split("")
         .reduce((acc: string, char: string) => {
             if (kannadaToGeneric.get(acc + char)) {
-                return acc + char; 
+                result += kannadaToGeneric.get(acc + char);
+                return ""; 
             }
 
             if (kannadaToGeneric.get(acc)) {
@@ -107,7 +109,7 @@ function transliterateKannadaToGeneric(text: string): string {
                 return char;
             }
 
-            result += char;
+            result += acc;
 
             return char;
         }, "")
@@ -115,7 +117,6 @@ function transliterateKannadaToGeneric(text: string): string {
         .toLowerCase();
 
     return result + (kannadaToGeneric.get(endChar) || endChar);
-    
 }
 
 function transliterateGeneric(text: string, from: Language, to: Language): string {
